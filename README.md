@@ -13,9 +13,6 @@ A Claude Code skill that turns an idea into a printable part through code-CAD, t
 ### What else I've built
 - **Max**: my own personal AI system that I work alongside every day
 - **Self-hosted AI agents** on local models with self-healing infrastructure (at 14)
-- **Personal AI assistants** for my family members
 - An **AI video editor** that finds the good parts of raw footage and cuts it automatically
 
 **Working with:** Python · build123d · OpenSCAD · Blender · Claude Code · Codex · local LLMs
-
-*Goal: an AI-focused role at a company pushing AI forward.*
