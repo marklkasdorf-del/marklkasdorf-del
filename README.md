@@ -6,6 +6,7 @@ I've been 3D printing since I was 9. At 13 I turned it into a business that made
 
 ### 🔧 [max-model](https://github.com/marklkasdorf-del/max-model)
 A Claude Code skill that turns an idea into a printable part through code-CAD, then verifies it: numeric specs, motion sweeps with must-jam controls, fit checks, and print-failure prediction.
+- **CYCLO-11**: a print-in-place 11:1 cycloidal speed reducer (the gearbox type inside robot joints). One print, no assembly. Measured ratio **10.9998:1**, zero collisions over a full turn
 - Standard parts matched real CAD files at **0.96 IoU**
 - Print-in-place mechanisms passed their motion tests **on the first build**
 - Verified mechanisms, flexi creatures, local text-to-3D, Gridfinity, remix, split, AR
